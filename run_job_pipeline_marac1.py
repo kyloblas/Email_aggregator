@@ -1,4 +1,5 @@
 """
+# v1.1 - pipeline refactor candidate
 run_job_pipeline_final.py
 =========================
 Job alert extraction pipeline — Gmail → Excel
